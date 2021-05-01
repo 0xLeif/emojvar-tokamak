@@ -1,3 +1,3 @@
 # TokamakApp
 
-A description of this package.
+*Convert from [semvar](https://semver.org/) to [emojvar](https://github.com/0xLeif/Emoji-Semantic-Versioning)*
